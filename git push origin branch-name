@@ -1,0 +1,11 @@
+# Navigate to your project directory
+cd /path/to/your/project
+
+# Stage all changes
+git add .
+
+# Commit the changes with a message
+git commit -m "Add new feature and fix bugs"
+
+# Push the changes to the remote repository (e.g., main branch)
+git push origin main
