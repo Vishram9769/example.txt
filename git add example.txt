@@ -1,0 +1,4 @@
+git add example.txt
+git add .
+git commit -m "Add example.txt with initial content"
+git push origin main
